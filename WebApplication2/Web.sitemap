@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="mantenedorUsuario.aspx" title="mantenedorUsuarios"  description="mantenedor de usuarios">
+    <siteMapNode url="mantenedorOficina.aspx" title="mantenedorOficina"  description="mantenedor de oficina" />
+    <siteMapNode url="" title=""  description="" />
+  </siteMapNode>
+</siteMap>
